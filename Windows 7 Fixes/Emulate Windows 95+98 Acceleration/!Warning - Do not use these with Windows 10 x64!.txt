@@ -1,0 +1,1 @@
+Fixes that emulate Windows 95+98 acceleration that have 2 thresholds cause BugChecks (BSOD) on Windows 10 x64
